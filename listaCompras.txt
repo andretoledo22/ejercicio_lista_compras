@@ -1,1 +1,11 @@
-Leche\nPan\nLechuga\nTomate\nCebolla\nQueso Cremoso
+Leche
+Pan
+Lechuga
+Tomate
+Cebolla
+Queso Cremoso
+
+Huevos
+Harina
+Aceite
+Vinagre
